@@ -1,3 +1,5 @@
+![banner](github_onboarding_banner.png)
+
 # GitHub and Other Onboarding for Students
 > Training modules, cheatsheets, and more!
 
