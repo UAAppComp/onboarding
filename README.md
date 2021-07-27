@@ -13,8 +13,9 @@ Initial steps:
 
 1. [Sign up for GitHub Education](https://education.github.com/students) and get your Student Pack
 2. Download and install GitHub Desktop (or get wild and try something like GitKraken)
-3. ...
-4. Profit!
+3. Contact one of your faculty to be added to this organization
+4. ...
+5. Profit!
 
 ### Beginner
 
