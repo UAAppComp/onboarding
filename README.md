@@ -13,7 +13,7 @@ Initial steps:
 
 1. [Sign up for GitHub Education](https://education.github.com/students) and get your Student Pack
 2. Download and install GitHub Desktop (or get wild and try something like GitKraken)
-3. Contact one of your faculty to be added to this organization
+3. Contact one of your faculty to be added to this organization (don't forget to include your GitHub username)
 4. ...
 5. Profit!
 
@@ -21,16 +21,20 @@ Initial steps:
 
 + [Introduction to GitHub | GitHub Learning Lab](https://lab.github.com/githubtraining/introduction-to-github)
 + [First Day on GitHub | GitHub Learning Lab](https://lab.github.com/githubtraining/first-day-on-github)
++ [GitHub Pages | GitHub Learning Lab](https://lab.github.com/githubtraining/github-pages)
++ [Uploading your project to GitHub | GitHub Learning Lab](https://lab.github.com/githubtraining/uploading-your-project-to-github)
 
 ### Intermediate
 
-+ ...
-+ ...
++ [Reviewing pull requests | GitHub Learning Lab](https://lab.github.com/githubtraining/reviewing-pull-requests)
++ [Managing merge conflicts | GitHub Learning Lab](https://lab.github.com/githubtraining/managing-merge-conflicts)
++ [Create a release based workflow | GitHub Learning Lab](https://lab.github.com/githubtraining/create-a-release-based-workflow)
 
 ### Advanced
 
-+ ...
-+ ...
++ [Securing your workflows | GitHub Learning Lab](https://lab.github.com/githubtraining/securing-your-workflows)
++ [GitHub Actions: Hello World | GitHub Learning Lab](https://lab.github.com/githubtraining/github-actions:-hello-world)
++ [Getting started with GitHub Apps | GitHub Learning Lab](https://lab.github.com/githubtraining/getting-started-with-github-apps)
 
 ## Student Learning Portfolio options
 
