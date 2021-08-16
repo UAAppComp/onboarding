@@ -36,6 +36,14 @@ Initial steps:
 + [GitHub Actions: Hello World | GitHub Learning Lab](https://lab.github.com/githubtraining/github-actions:-hello-world)
 + [Getting started with GitHub Apps | GitHub Learning Lab](https://lab.github.com/githubtraining/getting-started-with-github-apps)
 
+## R
+
+You'll be using R at least in APCV 302 and APCV 362, but once you appreciate just how powerful RMarkdown is, you'll probably want to use it for a lot more. 
+
++ [An Introduction to R](https://intro2r.com/)
++ [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
++ See [Dr. Straight's giant list of R-related resources](https://github.com/ryanstraight/resources#r). 
+
 ## Student Learning Portfolio options
 
 In Applied Computing, you'll be creating a portfolio that is public-facing and highlights some of your favorite and best work. Here are some guides for options to get your portfolio online.
