@@ -13,7 +13,7 @@ In Applied Computing, we use a variety of platforms and services that you'll nee
 
 + [D2L](https://d2l.arizona.edu): our learning managment system. This is where you'll find your classes, syllabuses, assignments, grades, and so on.
 + [Microsoft Teams](https://...): many of us use Teams as our daily communication driver.
-+ [Zoom](https://arizona.zoom.us): how we meet synchronously. You **must** be authenticated using your NetID to join your class meetings!
++ [Zoom](https://arizona.zoom.us): how we meet synchronously. You **must** be authenticated using your NetID to join your class meetings! Zoom meetings are typically recorded in case you are not able to make the live session.
 
 ## GitHub
 
