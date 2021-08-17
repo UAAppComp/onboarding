@@ -7,6 +7,14 @@
 
 This is your checklist for getting ready to use GitHub in the Applied Computing program. It also contains a fairly large collection of resources for other topics like various programming languages we use, how to research, and more. This document is *a work-in-progress* and will be updated fairly regularly. Your feedback and participation in the development of this document is encouraged, as well! Feel free to fork and do a **pull request** (PR) and add resources you feel are useful.
 
+## Academic Ecosystem
+
+In Applied Computing, we use a variety of platforms and services that you'll need to be involved in and engaged with to be successful. Many of these stretch beyond our program, as well.
+
++ [D2L](https://d2l.arizona.edu): our learning managment system. This is where you'll find your classes, syllabuses, assignments, grades, and so on.
++ [Microsoft Teams](https://...): many of us use Teams as our daily communication driver.
++ [Zoom](https://arizona.zoom.us): how we meet synchronously. You **must** be authenticated using your NetID to join your class meetings!
+
 ## GitHub
 
 Initial steps:
