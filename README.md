@@ -12,8 +12,8 @@ This is your checklist for getting ready to use GitHub in the Applied Computing 
 In Applied Computing, we use a variety of platforms and services that you'll need to be involved in and engaged with to be successful. Many of these stretch beyond our program, as well.
 
 + [D2L](https://d2l.arizona.edu): our learning managment system. This is where you'll find your classes, syllabuses, assignments, grades, and so on.
-+ [Microsoft Teams](https://...): many of us use Teams as our daily communication driver.
-+ [Zoom](https://arizona.zoom.us): how we meet synchronously. You **must** be authenticated using your NetID to join your class meetings! Zoom meetings are typically recorded in case you are not able to make the live session.
++ [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/download-app): many of us use Teams as our daily communication driver.
+    + We have an Applied Computing team and your classes may have individual teams specific to those classes.+ [Zoom](https://arizona.zoom.us): how we meet synchronously. You **must** be authenticated using your NetID to join your class meetings! Zoom meetings are typically recorded in case you are not able to make the live session.
 
 ## GitHub
 
