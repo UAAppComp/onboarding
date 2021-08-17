@@ -12,10 +12,10 @@ This is your checklist for getting ready to use GitHub in the Applied Computing 
 Initial steps:
 
 1. [Sign up for GitHub Education](https://education.github.com/students) and get your Student Pack
-2. Download and install GitHub Desktop (or get wild and try something like [GitKraken](gitkraken.com), Dr Straight's IDE of choice)
-3. Contact one of your faculty to be added to this organization (don't forget to include your GitHub username)
-4. ...
-5. Profit!
+2. Star and Watch this repository!
+3. Download and install GitHub Desktop (or get wild and try something like [GitKraken](gitkraken.com), Dr Straight's IDE of choice)
+4. Contact one of your faculty to be added to this organization (don't forget to include your GitHub username)
+5. Enjoy!
 
 ### Beginner
 
