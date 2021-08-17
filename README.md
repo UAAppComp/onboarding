@@ -5,7 +5,7 @@
 
 ![](https://img.shields.io/badge/Status-in%20progress-yellowgreen)
 
-This is your checklist for getting ready to use GitHub in the Applied Computing program. This document is *a work-in-progress* and will be updated fairly regularly. Your feedback and participation in the development of this document is encouraged, as well! Feel free to fork and do a **pull request** (PR) and add resources you feel are useful.
+This is your checklist for getting ready to use GitHub in the Applied Computing program. It also contains a fairly large collection of resources for other topics like various programming languages we use, how to research, and more. This document is *a work-in-progress* and will be updated fairly regularly. Your feedback and participation in the development of this document is encouraged, as well! Feel free to fork and do a **pull request** (PR) and add resources you feel are useful.
 
 ## GitHub
 
