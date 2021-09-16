@@ -100,7 +100,7 @@ The University provides free tutoring for writing and math, and various other re
 
 To find tutoring hours and availability near you, please select your location below to find the tutoring available at your learning center.
 
-+ [Sierra Vista & Douglas: http://www.cochise.edu/academic-support/tutoring/](http://www.cochise.edu/academic-support/tutoring/)
++ [Sierra Vista & Douglas: http://www.cochise.edu/tutoring](http://www.cochise.edu/tutoring)
 + [Tucson: http://thinktank.arizona.edu/](http://thinktank.arizona.edu/)
 + [Yuma: https://www.azwestern.edu/student-success-center/tutoring](https://www.azwestern.edu/student-success-center/tutoring)
 + [Arizona Western College: https://www.azwestern.edu/student-success-center/about-us](https://www.azwestern.edu/student-success-center/about-us)
